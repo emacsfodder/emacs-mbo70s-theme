@@ -9,6 +9,7 @@
 ;;
 ;;  Re-edit don't fade away...
 ;;
+;;; Licence: MIT
 ;;; Code:
 
 (deftheme mbo70s "mbo70s-theme")
